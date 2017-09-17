@@ -17,7 +17,7 @@ Matlab code.
 -------------------------------------------------------------------
  Usage
 -------------------------------------------------------------------
-For a reproduction of the figures in the paper, run "run_figures.m".
+For a reproduction of the figures in the paper, run "makeFigures/run_figures.m".
 
 To try any method separately, use the relevant test procedure. For example, to run 
 the least squares method ("MRA_LS") use "test_MRA_LS.m".
