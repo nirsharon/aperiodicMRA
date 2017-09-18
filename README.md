@@ -1,12 +1,12 @@
 # NonperiodicMRA
 Demo software for the paper: "Multireference Alignment with Non–Periodic Distribution: Theory and Algorithms".
 
-Paper authors:               Emmanuel Abbe
-                             Tamir Bendory
-                             Will Leeb
-                             João Morais Carreira Pereira
-                             Nir Sharon
-                             Amit Singer
+Paper authors:               Emmanuel Abbe,
+                             Tamir Bendory,
+                             Will Leeb,
+                             João Morais Carreira Pereira,
+                             Nir Sharon,
+                             Amit Singer.
                              
 Version: 1.0.
 
