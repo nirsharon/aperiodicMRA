@@ -1,4 +1,4 @@
-# NonperiodicMRA
+# aperiodicMRA
 Demo software for the paper: "Multireference Alignment with Non–Periodic Distribution: Theory and Algorithms".
 
 Paper authors:               Emmanuel Abbe,
