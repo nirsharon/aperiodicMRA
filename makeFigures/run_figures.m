@@ -4,9 +4,12 @@
 % 
 % To modify the setting, naming, and saving, open each script separately 
 %
-% NS, September 2017
+% NS, September -- November  2017
 
-main_comparison
+
+vary_sigma_comparison
+
+% older comparisons: main_comparison
 plot_EMvsLS
 
 
