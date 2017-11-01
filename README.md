@@ -1,5 +1,5 @@
 # aperiodicMRA
-Demo software for the paper: "Multireference Alignment with Non–Periodic Distribution: Theory and Algorithms".
+Demo software for the paper: "Multireference Alignment is Easier with an Aperiodic Translation Distribution" (see https://arxiv.org/abs/1710.02793).
 
 Paper authors:               Emmanuel Abbe,
                              Tamir Bendory,
