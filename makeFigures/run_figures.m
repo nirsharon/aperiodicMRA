@@ -8,9 +8,10 @@
 
 
 vary_sigma_comparison
+% in the following, make sure the number of trials is large enough
+run_EM_comparison
 
-% older comparisons: main_comparison
-plot_EMvsLS
+% older comparisons: main_comparison, plot_EMvsLS
 
 
 
